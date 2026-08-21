@@ -41,4 +41,4 @@ The objective of this project is to transform retail sales data into an interact
 
 ## 👨‍💻 Author
 
-kashish mehra 
+Kashish Mehra 
